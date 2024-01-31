@@ -1,0 +1,1124 @@
+,Felhasznalo,Valasz
+0,Hogyan gyógyítsuk a vágásokat?,vágás
+1,Milyen gyógyszert kell alkalmazni a vágásoknál?,vágás
+2,Mit kell alkalmazni a vágásokon?,vágás
+3,Hogyan kell kezelni a horzsolásokat?,horzsolás
+4,Milyen gyógyszert kell alkalmazni a horzsolásokra?,horzsolás
+5,Hogyan lehet gyógyítani a horzsolásokat?,horzsolás
+6,Hogyan kell kezelni egy ficamot?,ficam
+7,"Mit tegyek, ha ficamot kaptam?",ficam
+8,"Milyen krémet alkalmazzak, ha ficamot kapok?",ficam
+9,"Milyen gyógyszert alkalmazzak, ha ficamot kapok?",ficam
+10,Hogyan kezeli a torokfájást?,torok
+11,"mit tegyek, ha fáj a torkom?",torok
+12,"Milyen gyógyszert szedjek, ha torokfájásom van?",torok
+13,Hogyan lehet gyógyítani a torokfájást?,torok
+14,Hogyan kell kezelni egy állat harapását?,harapás
+15,Hogyan kell kezelni egy kutyaharapást?,harapás
+16,"Mit tegyek, ha megharap egy állat?",harapás
+17,Hogyan lehet gyógyítani a kutyaharapást?,harapás
+18,Megharapott egy kutya.,harapás
+19,Hogyan kezelsz egy megfázást?,megfáz
+20,"mit tegyek, ha enyhe megfázást kapok?",megfáz
+21,Hogyan gyógyítsuk a megfázást?,megfáz
+22,Hogyan kell kezelni a vérzést?,vérzés
+23,"Mit tegyek, ha vérzek?",vérzés
+24,Hogyan állítsak el egy vérzést?,vérzés
+25,Hogyan gyógyítható a vérzés?,vérzés
+26,Hogyan kezeli a napégést?,leég
+27,"mit tegyek, ha leégek a napon?",leég
+28,"Milyen gyógyszert szedjek, ha napégést kapok?",leég
+29,Hogyan lehet gyógyítani a napégést?,leég
+30,orrdugulás,orrdugulás
+31,orrdugulásom van,orrdugulás
+32,eldugult az orrom,orrdugulás
+33,nem kapok levegőt éjszaka,orrdugulás
+34,problémám van a légzéssel alvás közben,orrdugulás
+35,orrdugulás,orrdugulás
+36,az orrjárat eltömődött a váladéktól,orrdugulás
+37,nyálkától eltömődött orrlyuk,orrdugulás
+38,eldugult orrlyuk,orrdugulás
+39,légzési nehézséget okozó orr,orrdugulás
+40,csökkent szaglás és szaglás,orrdugulás
+41,orrfolyás,megfáz
+42,orrdugulásom van,orrdugulás
+43,duzzadt orrszövet,megfáz
+44,orrdugulás,orrdugulás
+45,orrdugulásom van,orrdugulás
+46,eldugult az orrom,megfáz
+47,nem kapok levegőt éjszaka,megfáz
+48,problémám van a légzéssel alvás közben,megfáz
+49,orrdugulás,orrdugulás
+50,az orrjárat eltömődött a váladéktól,megfáz
+51,nyálkától eltömődött,megfáz
+52,eldugult orrlyuk,megfáz
+53,légzési nehézséget okozó orr,megfáz
+54,csökkent szaglás és szaglás,megfáz
+55,orrfolyás,megfáz
+56,orrdugulásom van,megfáz
+57,duzzadt orrszövet,megfáz
+58,Folyik az orrom.,megfáz
+59,Megfáztam.,megfáz
+60,Nagyon fázom.,láz
+61,Megfáztam és köhögök.,láz
+62,Fázom.,láz
+63,Lázam van és fázom.,láz
+64,Lázam van és fázom.,láz
+65,Lázam van és fázom.,láz
+66,Lázam van és fázom.,láz
+67,Lázam van és fázom.,láz
+68,Lázas vagyok.,láz
+69,Lázas vagyok.,láz
+70,Fázom.,láz
+71,Fázom.,láz
+72,Fázom.,láz
+73,Fázom.,láz
+74,Folyik az orrom.,láz
+75,Az orrom eldugult és viszket.,láz
+76,Az orrom eldugult és viszket.,orrpír
+77,Az orrom piros és sokat tüsszögök.,orrpír
+78,Az orrom piros és sokat tüsszögök.,orrpír
+79,Az orrom piros és sokat tüsszögök.,orrpír
+80,"Megfáztam, és a testhőmérsékletem magas.",láz
+81,"Megfáztam, és a testhőmérsékletem magas.",láz
+82,Csöpög az orrom és lázam van.,láz
+83,Csöpög az orrom és lázam van.,láz
+84,A szemem vörös.,kötőhártya gyulladás
+85,A szemem vörös.,kötőhártya gyulladás
+86,A szemem vörös.,kötőhártya gyulladás
+87,A szemem vörös.,kötőhártya gyulladás
+88,A szemem vörösödik.,kötőhártya gyulladás
+89,A szemem vörösödik.,kötőhártya gyulladás
+90,A szemem vörösödik.,kötőhártya gyulladás
+91,A szemem vörösödik.,kötőhártya gyulladás
+92,A szemem könnyezik.,kötőhártya gyulladás
+93,A szemem könnyezik.,kötőhártya gyulladás
+94,A szemem könnyezik.,kötőhártya gyulladás
+95,A szemem könnyezik.,kötőhártya gyulladás
+96,Vizenyős a szemem.,kötőhártya gyulladás
+97,Vizenyős a szemem.,kötőhártya gyulladás
+98,Vizenyős a szemem.,kötőhártya gyulladás
+99,Viszket a szemem.,kötőhártya gyulladás
+100,Viszket a szemem.,kötőhártya gyulladás
+101,Viszket a szemem.,kötőhártya gyulladás
+102,Viszket a szemem.,kötőhártya gyulladás
+103,Be van gyulladva a szemem.,kötőhártya gyulladás
+104,Be van gyulladva a szemem.,kötőhártya gyulladás
+105,Be van gyulladva a szemem.,kötőhártya gyulladás
+106,Be van gyulladva a szemem.,kötőhártya gyulladás
+107,A szemem vörös és viszket.,kötőhártya gyulladás
+108,A szemem vörös és viszket.,kötőhártya gyulladás
+109,A szemem vörös és viszket.,kötőhártya gyulladás
+110,A szemem vörös és viszket.,kötőhártya gyulladás
+111,"Azt hiszem, kötőhártya-gyulladásom van.",kötőhártya gyulladás
+112,"Azt hiszem, kötőhártya-gyulladásom van.",kötőhártya gyulladás
+113,Hogyan gyógyítsam meg a kötőhártya gyulladásomat?,kötőhártya gyulladás
+114,Hogyan gyógyítsam meg a kötőhártya gyulladásomat?,kötőhártya gyulladás
+115,Kötőhártya gyulladásban szenvedek.,kötőhártya gyulladás
+116,Kötőhártya gyulladásban szenvedek.,kötőhártya gyulladás
+117,Kötőhártya gyulladásban szenvedek.,kötőhártya gyulladás
+118,Gyomorégésem van.,reflux
+119,Gyomorégésem van.,reflux
+120,Gyomorégésem van.,reflux
+121,Gyomorégésem van.,reflux
+122,Égő érzésem van a mellkasomban.,reflux
+123,Égő érzésem van a mellkasomban.,reflux
+124,Égő érzésem van a mellkasomban.,reflux
+125,Égő érzésem van a mellkasomban.,reflux
+126,Savanyú folyadékot érzek a számban.,reflux
+127,Savanyú folyadékot érzek a számban.,reflux
+128,Savanyú folyadékot érzek a számban.,reflux
+129,Savanyú folyadékot érzek a számban.,reflux
+130,Gombóc van a torkomban.,reflux
+131,Gombóc van a torkomban.,reflux
+132,Gombóc van a torkomban.,reflux
+133,Gombóc van a torkomban.,reflux
+134,Szorul a torkom.,reflux
+135,Szorul a torkom.,reflux
+136,Szorul a torkom.,reflux
+137,Szorul a torkom.,reflux
+138,Nyelési problémám van.,reflux
+139,Nyelési problémám van.,reflux
+140,Nyelési problémám van.,reflux
+141,Nyelési problémám van.,reflux
+142,Gyomorhurutban szenvedek.,reflux
+143,Gyomorhurutban szenvedek.,reflux
+144,Gyomorhurutban szenvedek.,reflux
+145,Gyomorhurutban szenvedek.,reflux
+146,Hogyan gyógyítsam meg a refluxomat?,reflux
+147,Hogyan gyógyítsam meg a refluxomat?,reflux
+148,Hogyan gyógyítsam meg a refluxomat?,reflux
+149,Hogyan gyógyítsam meg a refluxomat?,reflux
+150,Problémás érzés a reflux miatt.,reflux
+151,Problémás érzés a reflux miatt.,reflux
+152,Problémás érzés a reflux miatt.,reflux
+153,Problémás érzés a reflux miatt.,reflux
+154,Nem olyan régóta szenvedek a refluxtól.,reflux
+155,Nem olyan régóta szenvedek a refluxtól.,reflux
+156,Mindig vizelési ingerem van.,diabétesz
+157,Mindig vizelési ingerem van.,diabétesz
+158,Mindig vizelési ingerem van.,diabétesz
+159,Mindig pisilnem kell.,diabétesz
+160,Mindig pisilnem kell.,diabétesz
+161,Mindig pisilnem kell.,diabétesz
+162,Többször megyek vizelni.,diabétesz
+163,Többször megyek vizelni.,diabétesz
+164,Többször megyek vizelni.,diabétesz
+165,Többször pisilek.,diabétesz
+166,Többször pisilek.,diabétesz
+167,Többször pisilek.,diabétesz
+168,Állandóan szomjasnak érzem magam.,diabétesz
+169,Mindig szomjas vagyok.,diabétesz
+170,Mindig vizet akarok inni.,diabétesz
+171,Túl sokat pisilek.,diabétesz
+172,Túl sokat pisilek.,diabétesz
+173,Túl sokat pisilek.,diabétesz
+174,Fogyok testmozgás nélkül.,diabétesz
+175,Mindig éhesnek érzem magam.,diabétesz
+176,Folyton étvágytalan vagyok.,diabétesz
+177,Folyton kimerült vagyok.,diabétesz
+178,Folyton fáradtnak érzem magam.,diabétesz
+179,"Azt hiszem, cukorbeteg vagyok.",diabétesz
+180,Cukorbetegségben szenvedek.,diabétesz
+181,Mit tegyek cukorbetegség esetén?,diabétesz
+182,Cukorbetegségben szenvedek.,diabétesz
+183,"Azt hiszem, cukorbeteg vagyok.",diabétesz
+184,Cukorbetegségben szenvedek.,diabétesz
+185,Mit tegyek cukorbetegség esetén?,diabétesz
+186,Cukorbetegségben szenvedek.,diabétesz
+187,"Azt hiszem, cukorbeteg vagyok.",diabétesz
+188,Cukorbetegségben szenvedek.,diabétesz
+189,Mit tegyek cukorbetegség esetén?,diabétesz
+190,Cukorbetegségben szenvedek.,diabétesz
+191,"Azt hiszem, cukorbeteg vagyok.",diabétesz
+192,Cukorbetegségben szenvedek.,diabétesz
+193,Mit tegyek cukorbetegség esetén?,diabétesz
+194,Cukorbetegségben szenvedek.,diabétesz
+195,Hámlik a bőröm.,ekcéma
+196,Hámlik a bőröm.,ekcéma
+197,Hámlik a bőröm.,ekcéma
+198,Hámlik a bőröm.,ekcéma
+199,A bőröm pikkelyes.,ekcéma
+200,A bőröm pikkelyes.,ekcéma
+201,A bőröm pikkelyes.,ekcéma
+202,A bőröm pikkelyes.,ekcéma
+203,Bőrpírom van.,ekcéma
+204,Bőrpírom van.,ekcéma
+205,Bőrpírom van.,ekcéma
+206,Vörös a bőröm.,ekcéma
+207,Vörös a bőröm.,ekcéma
+208,Vörös a bőröm.,ekcéma
+209,Viszketnek a kezeim és a lábaim.,ekcéma
+210,Viszketnek a kezeim és a lábaim.,ekcéma
+211,Viszketnek a kezeim és a lábaim.,ekcéma
+212,Viszket a bőröm.,ekcéma
+213,Viszket a bőröm.,ekcéma
+214,Viszket a bőröm.,ekcéma
+215,Mindenhol viszket a bőröm.,ekcéma
+216,Mindenhol viszket a bőröm.,ekcéma
+217,Mindenhol viszket a bőröm.,ekcéma
+218,Duzzadt a bőröm.,bőrgomba
+219,Duzzadt a bőröm.,bőrgomba
+220,Hólyagok a bőrömön.,bőrgomba
+221,Hólyagok a bőrömön.,bőrgomba
+222,Hólyagok vannak a bőrömön.,bőrgomba
+223,Hólyagok vannak a bőrömön.,bőrgomba
+224,Irritációm van.,bőrgomba
+225,Irritációm van.,bőrgomba
+226,Irritációm van.,bőrgomba
+227,A bőröm hámlik és viszket.,bőrgomba
+228,A bőröm hámlik és viszket.,bőrgomba
+229,A bőröm hámlik és viszket.,bőrgomba
+230,A bőröm színe kezd vörössé válni.,bőrgomba
+231,A bőröm színe kezd vörössé válni.,bőrgomba
+232,A bőröm színe kezd vörössé válni.,bőrgomba
+233,"Azt hiszem, gombás fertőzésem van.",bőrgomba
+234,"Azt hiszem, gombás fertőzésem van.",bőrgomba
+235,Gombás fertőzésben szenvedek.,bőrgomba
+236,Gombás fertőzésben szenvedek.,bőrgomba
+237,"Úgy érzem, hogy gombás fertőzésem van.",bőrgomba
+238,"Úgy érzem, hogy gombás fertőzésem van.",bőrgomba
+239,Gombás fertőzésem van.,bőrgomba
+240,Gombás fertőzésem van.,bőrgomba
+241,Bőrkiütéseim vannak.,bőrgomba
+242,Bőrkiütéseim vannak.,bőrgomba
+243,Bőrkiütéseim vannak.,bőrgomba
+244,Kiütések vannak a bőrömön.,bőrgomba
+245,Kiütések vannak a bőrömön.,bőrgomba
+246,Kiütések vannak a bőrömön.,bőrgomba
+247,Mindig viszketést érzek.,bőrgomba
+248,Mindig viszketést érzek.,bőrgomba
+249,Mindig viszketést érzek.,bárányhimlő
+250,Mindig fáradtságot érzek.,bárányhimlő
+251,Mindig fáradtnak érzem magam.,bárányhimlő
+252,Duzzadt nyirokcsomók.,bárányhimlő
+253,Megdagadtak a nyirokcsomóim.,bárányhimlő
+254,Az egész testemen duzzadtak a nyirokcsomók.,bárányhimlő
+255,Vörös foltok vannak.,bárányhimlő
+256,Vörös foltok vannak az egész testemen.,bárányhimlő
+257,Étvágytalanság.,bárányhimlő
+258,"Azt hiszem, bárányhimlős vagyok.",bárányhimlő
+259,Bárányhimlőben szenvedek.,bárányhimlő
+260,Súlyos bárányhimlős szenvedés.,bárányhimlő
+261,Mostanában bárányhimlőtől szenvedek.,bárányhimlő
+262,Nehezen tudok elaludni,álmatlanság
+263,Hosszú ideig ébren vagyok éjszaka,álmatlanság
+264,Többször felébredek az éjszaka folyamán,álmatlanság
+265,"Korán reggel felébredek, és nem tudok visszaaludni.",álmatlanság
+266,"Nem érzem magam felfrissültnek, amikor felkelek",álmatlanság
+267,"Nehezen szundítok napközben, annak ellenére, hogy fáradtnak érzem magam",álmatlanság
+268,"Fáradtnak és ingerlékenynek érzem magam napközben, és nehezen tudok koncentrálni",álmatlanság
+269,Nyugtalan éjszakák,álmatlanság
+270,Nem tudok aludni éjszaka,álmatlanság
+271,"Úgy érzem, hogy az éjszakák nagyon hosszúak",álmatlanság
+272,"Azt hiszem, álmatlanságban szenvedek",álmatlanság
+273,Hogyan gyógyítható az álmatlanságom?,álmatlanság
+274,álmatlanságban szenvedek,álmatlanság
+275,nagyon fájdalmas érzés az álmatlanság miatt,álmatlanság
+276,az utóbbi időben álmatlanságban szenvedek,álmatlanság
+277,Zöldes köhögésem van,tüdőgyulladás
+278,Sárga köhögésem van véres váladékkal,tüdőgyulladás
+279,Lázam és hidegrázásom van,tüdőgyulladás
+280,Lázam és hidegrázásom van,tüdőgyulladás
+281,Szapora és felületes légzésem van,tüdőgyulladás
+282,Lázam van zöld köhögéssel,tüdőgyulladás
+283,Lázam van zöld köhögéssel,tüdőgyulladás
+284,Köhögök és zöld színű a köhögésem,tüdőgyulladás
+285,Mély légzés közben szúró mellkasi fájdalmak jelentkeznek.,tüdőgyulladás
+286,Nehézségek a mélylégzésben,tüdőgyulladás
+287,Alacsony energia és fáradtság,tüdőgyulladás
+288,Nem tudok aludni a sípoló légzés miatt.,hörgőasztma
+289,Légzési problémáim vannak.,hörgőasztma
+290,Nem tudok aludni a légszomj miatt.,hörgőasztma
+291,A köhögés és a megfázás miatt jobban zihálok.,hörgőasztma
+292,Sípoló légzésem van az influenza miatt.,hörgőasztma
+293,"Azt hiszem, hörgőasztmám van.",hörgőasztma
+294,"Azt hiszem, hörgőasztmám van.",hörgőasztma
+295,"Azt hiszem, hörgőasztmám van.",hörgőasztma
+296,"Azt hiszem, hörgőasztmám van.",hörgőasztma
+297,problémás hörgőasztma szenvedés.,hörgőasztma
+298,problémás hörgőasztma szenvedés.,hörgőasztma
+299,Asztma bronchialisban szenvedek.,hörgőasztma
+300,Asztma bronchialisban szenvedek.,hörgőasztma
+301,Nemrégiben hörgőasztmától szenvedtem.,hörgőasztma
+302,a szaglás vagy az ízlelés megváltozása,covid
+303,a szaglás vagy az ízlelés megváltozása,covid
+304,a szaglás vagy az ízlelés megváltozása,covid
+305,a szaglás vagy az ízlelés megváltozása,covid
+306,a szaglás vagy az ízlelés megváltozása,covid
+307,a szaglás vagy az ízlelés megváltozása,covid
+308,légzési nehézség,covid
+309,légzési nehézség,covid
+310,légzési nehézség,covid
+311,légzési nehézség,covid
+312,légzési nehézség,covid
+313,légzési nehézség,covid
+314,Corona vírusom van,covid
+315,Corona vírusom van,covid
+316,Corona vírusom van,covid
+317,Corona vírusom van,covid
+318,Corona vírusom van,covid
+319,Corona vírusom van,covid
+320,"Lehet, hogy covidom van",covid
+321,"Lehet, hogy covidom van",covid
+322,"Lehet, hogy covidom van",covid
+323,"Lehet, hogy covidom van",covid
+324,"Lehet, hogy covidom van",covid
+325,"Lehet, hogy covidom van",covid
+326,Nagyon magas lázam van.,covid
+327,Nagyon magas lázam van.,covid
+328,Nagyon magas lázam van.,covid
+329,Nagyon magas lázam van.,covid
+330,Nagyon magas lázam van.,covid
+331,Nagyon magas lázam van.,covid
+332,Folyamatosan köhögök.,covid
+333,Folyamatosan köhögök.,covid
+334,Folyamatosan köhögök.,covid
+335,Folyamatosan köhögök.,covid
+336,Folyamatosan köhögök.,covid
+337,Folyamatosan köhögök.,covid
+338,Nehezen kapok levegőt.,covid
+339,Nehezen kapok levegőt.,covid
+340,Nehezen kapok levegőt.,covid
+341,Nehezen kapok levegőt.,covid
+342,Nehezen kapok levegőt.,covid
+343,Nehezen kapok levegőt.,covid
+344,Nem érzek semmilyen ízt.,covid
+345,Nem érzek semmilyen ízt.,covid
+346,Nem érzek semmilyen ízt.,covid
+347,Nem érzek semmilyen ízt.,covid
+348,Nem érzek semmilyen ízt.,covid
+349,Nem érzek semmilyen ízt.,covid
+350,Nem tudok rendesen szagolni.,covid
+351,Nem tudok rendesen szagolni.,covid
+352,Nem tudok rendesen szagolni.,covid
+353,Nem tudok rendesen szagolni.,covid
+354,Nem tudok rendesen szagolni.,covid
+355,Nem tudok rendesen szagolni.,covid
+356,Elvesztettem az ízlelés és a szaglás érzékelését.,covid
+357,Elvesztettem az ízlelés és a szaglás érzékelését.,covid
+358,Elvesztettem az ízlelés és a szaglás érzékelését.,covid
+359,Elvesztettem az ízlelés és a szaglás érzékelését.,covid
+360,Elvesztettem az ízlelés és a szaglás érzékelését.,covid
+361,Elvesztettem az ízlelés és a szaglás érzékelését.,covid
+362,Elvesztettem a szaglásérzékelésemet,covid
+363,Elvesztettem a szaglásérzékelésemet,covid
+364,Elvesztettem a szaglásérzékelésemet,covid
+365,Elvesztettem a szaglásérzékelésemet,covid
+366,Elvesztettem a szaglásérzékelésemet,covid
+367,Elvesztettem a szaglásérzékelésemet,covid
+368,Nem tudok rendesen lélegezni,covid
+369,Nem tudok rendesen lélegezni,covid
+370,Nem érzem az ízét semminek.,covid
+371,Nem érzem az ízét semminek.,covid
+372,"Azt hiszem, corona vírusom van.",covid
+373,Corona vírusban szenvedek.,covid
+374,Mostanában szenvedek a koronavírustól.,covid
+375,"koronavírus szédülés, éhségérzet és íztelenség",covid
+376,alacsony a vérnyomásom,alacsony vérnyomás
+377,alacsony a vérnyomásom,alacsony vérnyomás
+378,alacsony a vérnyomásom,alacsony vérnyomás
+379,alacsony a vérnyomásom,alacsony vérnyomás
+380,kiszáradás és szokatlan szomjúság,alacsony vérnyomás
+381,kiszáradás és szokatlan szomjúság,alacsony vérnyomás
+382,kiszáradás és szokatlan szomjúság,alacsony vérnyomás
+383,koncentrációhiány,alacsony vérnyomás
+384,koncentrációhiány,alacsony vérnyomás
+385,koncentrációhiány,alacsony vérnyomás
+386,homályos látás,alacsony vérnyomás
+387,homályos látás,alacsony vérnyomás
+388,"hideg, nyirkos, sápadt bőr",alacsony vérnyomás
+389,"hideg, nyirkos, sápadt bőr",alacsony vérnyomás
+390,"hideg, nyirkos, sápadt bőr",alacsony vérnyomás
+391,"szapora, felületes légzés",alacsony vérnyomás
+392,"szapora, felületes légzés",alacsony vérnyomás
+393,"szapora, felületes légzés",alacsony vérnyomás
+394,fáradtság,alacsony vérnyomás
+395,fáradtság,alacsony vérnyomás
+396,fáradtság,alacsony vérnyomás
+397,depresszió,alacsony vérnyomás
+398,depresszió,alacsony vérnyomás
+399,depresszió,alacsony vérnyomás
+400,fáradtnak érzem magam,alacsony vérnyomás
+401,fáradtnak érzem magam,alacsony vérnyomás
+402,fáradtnak érzem magam,alacsony vérnyomás
+403,kiszáradásom van,alacsony vérnyomás
+404,kiszáradásom van,alacsony vérnyomás
+405,kiszáradásom van,alacsony vérnyomás
+406,stresszes vagyok,alacsony vérnyomás
+407,stresszes vagyok,alacsony vérnyomás
+408,stresszes vagyok,alacsony vérnyomás
+409,"Azt hiszem, alacsony a vérnyomásom",alacsony vérnyomás
+410,"Azt hiszem, alacsony a vérnyomásom",alacsony vérnyomás
+411,"Azt hiszem, alacsony a vérnyomásom",alacsony vérnyomás
+412,"Azt hiszem, alacsony a vérnyomásom",alacsony vérnyomás
+413,alacsony vérnyomás fájdalom,alacsony vérnyomás
+414,alacsony vérnyomás fájdalom,alacsony vérnyomás
+415,alacsony vérnyomás fájdalom,alacsony vérnyomás
+416,alacsony vérnyomás fájdalom,alacsony vérnyomás
+417,zavaró alacsony vérnyomás,alacsony vérnyomás
+418,zavaró alacsony vérnyomás,alacsony vérnyomás
+419,zavaró alacsony vérnyomás,alacsony vérnyomás
+420,zavaró alacsony vérnyomás,alacsony vérnyomás
+421,alacsony vérnyomásom van,alacsony vérnyomás
+422,alacsony vérnyomásom van,alacsony vérnyomás
+423,alacsony vérnyomásom van,alacsony vérnyomás
+424,alacsony vérnyomásom van,alacsony vérnyomás
+425,mostanában alacsony vérnyomással szenvedek,alacsony vérnyomás
+426,mostanában alacsony vérnyomással szenvedek,alacsony vérnyomás
+427,mostanában alacsony vérnyomással szenvedek,alacsony vérnyomás
+428,mostanában alacsony vérnyomással szenvedek,alacsony vérnyomás
+429,magas vérnyomás,magas vérnyomás
+430,magas vérnyomás,magas vérnyomás
+431,magas vérnyomás,magas vérnyomás
+432,magas vérnyomás,magas vérnyomás
+433,magas vérnyomást érzek,magas vérnyomás
+434,magas vérnyomást érzek,magas vérnyomás
+435,magas vérnyomást érzek,magas vérnyomás
+436,magas vérnyomást érzek,magas vérnyomás
+437,erős fejfájásom van,magas vérnyomás
+438,erős fejfájásom van,magas vérnyomás
+439,erős fejfájásom van,magas vérnyomás
+440,mellkasi fájdalmat érzek,magas vérnyomás
+441,mellkasi fájdalmat érzek,magas vérnyomás
+442,mellkasi fájdalmat érzek,magas vérnyomás
+443,"lüktetés a mellkasban, a nyakban vagy a fülben",magas vérnyomás
+444,"lüktetés a mellkasban, a nyakban vagy a fülben",magas vérnyomás
+445,"lüktetés a mellkasban, a nyakban vagy a fülben",magas vérnyomás
+446,fáradtnak és kimerültnek érzem magam,magas vérnyomás
+447,fáradtnak és kimerültnek érzem magam,magas vérnyomás
+448,fáradtnak és kimerültnek érzem magam,magas vérnyomás
+449,izzadok,magas vérnyomás
+450,izzadok,magas vérnyomás
+451,izzadok,magas vérnyomás
+452,forróságot érzek,magas vérnyomás
+453,forróságot érzek,magas vérnyomás
+454,forróságot érzek,magas vérnyomás
+455,Szédülök,magas vérnyomás
+456,Szédülök,magas vérnyomás
+457,Szédülök,magas vérnyomás
+458,"Azt hiszem, magas a vérnyomásom",magas vérnyomás
+459,"Azt hiszem, magas a vérnyomásom",magas vérnyomás
+460,"Azt hiszem, magas a vérnyomásom",magas vérnyomás
+461,"Azt hiszem, magas a vérnyomásom",magas vérnyomás
+462,magas vérnyomásban szenvedek,magas vérnyomás
+463,magas vérnyomásban szenvedek,magas vérnyomás
+464,magas vérnyomásban szenvedek,magas vérnyomás
+465,magas vérnyomásban szenvedek,magas vérnyomás
+466,az utóbbi időben magas vérnyomással küzdök,magas vérnyomás
+467,az utóbbi időben magas vérnyomással küzdök,magas vérnyomás
+468,magas a vérnyomásom,magas vérnyomás
+469,magas a vérnyomásom,magas vérnyomás
+470,fáj a fogam,fájó fog
+471,fáj a fogam,fájó fog
+472,fáj a fogam,fájó fog
+473,fáj a fogam,fájó fog
+474,Eltört a fogam,fájó fog
+475,Eltört a fogam,fájó fog
+476,duzzanat van a fogam körül,fájó fog
+477,duzzanat van a fogam körül,fájó fog
+478,a szám bűzlik,fájó fog
+479,a szám bűzlik,fájó fog
+480,bűzös ízű folyásom van a fertőzött fogból,fájó fog
+481,bűzös ízű folyásom van a fertőzött fogból,fájó fog
+482,étkezés közben fáj a fogam,fájó fog
+483,étkezés közben fáj a fogam,fájó fog
+484,az ínyem elfertőződött,fájó fog
+485,az ínyem elfertőződött,fájó fog
+486,a fogamban lévő tömés megsérült,fájó fog
+487,a fogamban lévő tömés megsérült,fájó fog
+488,"Azt hiszem, fogfájásom van",fájó fog
+489,"Azt hiszem, fogfájásom van",fájó fog
+490,"Azt hiszem, fogfájásom van",fájó fog
+491,"Azt hiszem, fogfájásom van",fájó fog
+492,fogfájásom van,fájó fog
+493,fogfájásom van,fájó fog
+494,fogfájásom van,fájó fog
+495,fogfájásom van,fájó fog
+496,erős fogfájást érzek,fájó fog
+497,erős fogfájást érzek,fájó fog
+498,erős fogfájást érzek,fájó fog
+499,erős fogfájást érzek,fájó fog
+500,fogfájás problémája van,fájó fog
+501,fogfájás problémája van,fájó fog
+502,fogfájás problémája van,fájó fog
+503,fogfájás problémája van,fájó fog
+504,mostanában szenvedek a fogfájástól,fájó fog
+505,mostanában szenvedek a fogfájástól,fájó fog
+506,mostanában szenvedek a fogfájástól,fájó fog
+507,mostanában szenvedek a fogfájástól,fájó fog
+508,nagyon fáj a fogam,fájó fog
+509,nagyon fáj a fogam,fájó fog
+510,nagyon fáj a fogam,fájó fog
+511,nagyon fáj a fogam,fájó fog
+512,migrénem van.,migrén
+513,migrénem van.,migrén
+514,migrénem van.,migrén
+515,migrénem van.,migrén
+516,migrénem van.,migrén
+517,migrénem van.,migrén
+518,"érzékeny vagyok a fényre, hangra vagy szagra.",migrén
+519,"érzékeny vagyok a fényre, hangra vagy szagra.",migrén
+520,"érzékeny vagyok a fényre, hangra vagy szagra.",migrén
+521,"érzékeny vagyok a fényre, hangra vagy szagra.",migrén
+522,rendkívül fájdalmas fejfájás.,migrén
+523,rendkívül fájdalmas fejfájás.,migrén
+524,rendkívül fájdalmas fejfájás.,migrén
+525,rendkívül fájdalmas fejfájás.,migrén
+526,rendkívül fájdalmas fejfájás.,migrén
+527,rendkívül fájdalmas fejfájás.,migrén
+528,hallucinációim vannak.,migrén
+529,hallucinációim vannak.,migrén
+530,hallucinációim vannak.,migrén
+531,hallucinációim vannak.,migrén
+532,alagútlátásom van.,migrén
+533,alagútlátásom van.,migrén
+534,alagútlátásom van.,migrén
+535,alagútlátásom van.,migrén
+536,nagyon erős fejfájásom van.,migrén
+537,nagyon erős fejfájásom van.,migrén
+538,nagyon erős fejfájásom van.,migrén
+539,nagyon erős fejfájásom van.,migrén
+540,nagyon erős fejfájásom van.,migrén
+541,nagyon erős fejfájásom van.,migrén
+542,cseng a fülem.,fülcsengés
+543,cseng a fülem.,fülcsengés
+544,cseng a fülem.,fülcsengés
+545,cseng a fülem.,fülcsengés
+546,egyáltalán nem látok a fejem oldalán lévő fájdalom miatt.,migrén
+547,egyáltalán nem látok a fejem oldalán lévő fájdalom miatt.,migrén
+548,egyáltalán nem látok a fejem oldalán lévő fájdalom miatt.,migrén
+549,egyáltalán nem látok a fejem oldalán lévő fájdalom miatt.,migrén
+550,egyáltalán nem látok a fejem oldalán lévő fájdalom miatt.,migrén
+551,egyáltalán nem látok a fejem oldalán lévő fájdalom miatt.,migrén
+552,Szélsőséges fájdalmat érzek a fejemben.,migrén
+553,Szélsőséges fájdalmat érzek a fejemben.,migrén
+554,Szélsőséges fájdalmat érzek a fejemben.,migrén
+555,Szélsőséges fájdalmat érzek a fejemben.,migrén
+556,Szélsőséges fájdalmat érzek a fejemben.,migrén
+557,Szélsőséges fájdalmat érzek a fejemben.,migrén
+558,hányingerem van.,migrén
+559,hányingerem van.,migrén
+560,hányingerem van.,migrén
+561,hányingerem van.,migrén
+562,gyakori migrénes rohamaim vannak.,migrén
+563,gyakori migrénes rohamaim vannak.,migrén
+564,gyakori migrénes rohamaim vannak.,migrén
+565,gyakori migrénes rohamaim vannak.,migrén
+566,gyakori migrénes rohamaim vannak.,migrén
+567,gyakori migrénes rohamaim vannak.,migrén
+568,erős fájdalmat érzek a fejem hátsó részén.,migrén
+569,erős fájdalmat érzek a fejem hátsó részén.,migrén
+570,erős fájdalmat érzek a fejem hátsó részén.,migrén
+571,erős fájdalmat érzek a fejem hátsó részén.,migrén
+572,erős fájdalmat érzek a fejem hátsó részén.,migrén
+573,erős fájdalmat érzek a fejem hátsó részén.,migrén
+574,hullámzó érzéseket érzek a fejemben.,migrén
+575,hullámzó érzéseket érzek a fejemben.,migrén
+576,hullámzó érzéseket érzek a fejemben.,migrén
+577,hullámzó érzéseket érzek a fejemben.,migrén
+578,hullámzó érzéseket érzek a fejemben.,migrén
+579,hullámzó érzéseket érzek a fejemben.,migrén
+580,Migrénem van.,migrén
+581,Migrénem van.,migrén
+582,Migrénem van.,migrén
+583,Migrénem van.,migrén
+584,Migrénem van.,migrén
+585,Migrénem van.,migrén
+586,Migrénben szenvedek.,migrén
+587,Migrénben szenvedek.,migrén
+588,Migrénben szenvedek.,migrén
+589,Migrénben szenvedek.,migrén
+590,Migrénben szenvedek.,migrén
+591,Migrénben szenvedek.,migrén
+592,az utóbbi időben migrénben szenvedek.,migrén
+593,az utóbbi időben migrénben szenvedek.,migrén
+594,az utóbbi időben migrénben szenvedek.,migrén
+595,az utóbbi időben migrénben szenvedek.,migrén
+596,az utóbbi időben migrénben szenvedek.,migrén
+597,az utóbbi időben migrénben szenvedek.,migrén
+598,kellemetlen migrén,migrén
+599,kellemetlen migrén,migrén
+600,kellemetlen migrén,migrén
+601,kellemetlen migrén,migrén
+602,kellemetlen migrén,migrén
+603,kellemetlen migrén,migrén
+604,"ízületi fájdalom, érzékenység és merevség",artritisz
+605,"ízületi fájdalom, érzékenység és merevség",artritisz
+606,"ízületi fájdalom, érzékenység és merevség",artritisz
+607,"ízületi fájdalom, érzékenység és merevség",artritisz
+608,gyulladás az ízületekben és azok körül,artritisz
+609,gyulladás az ízületekben és azok körül,artritisz
+610,gyulladás az ízületekben és azok körül,artritisz
+611,gyulladás az ízületekben és azok körül,artritisz
+612,az ízületek korlátozott mozgása,artritisz
+613,az ízületek korlátozott mozgása,artritisz
+614,az ízületek korlátozott mozgása,artritisz
+615,az ízületek korlátozott mozgása,artritisz
+616,"meleg, vörös bőr az érintett ízület felett",artritisz
+617,"meleg, vörös bőr az érintett ízület felett",artritisz
+618,"meleg, vörös bőr az érintett ízület felett",artritisz
+619,"meleg, vörös bőr az érintett ízület felett",artritisz
+620,gyengeség és izomsorvadás,artritisz
+621,gyengeség és izomsorvadás,artritisz
+622,gyengeség és izomsorvadás,artritisz
+623,gyengeség és izomsorvadás,artritisz
+624,Ízületi gyulladásom van,artritisz
+625,Ízületi gyulladásom van,artritisz
+626,Ízületi gyulladásom van,artritisz
+627,Ízületi gyulladásom van,artritisz
+628,A kezem fáj és merevvé válik.,artritisz
+629,A kezem fáj és merevvé válik.,artritisz
+630,A kezem fáj és merevvé válik.,artritisz
+631,A kezem fáj és merevvé válik.,artritisz
+632,A térdeim fájnak és merevvé válnak.,artritisz
+633,A térdeim fájnak és merevvé válnak.,artritisz
+634,A térdeim fájnak és merevvé válnak.,artritisz
+635,A térdeim fájnak és merevvé válnak.,artritisz
+636,A gerincem fáj és merevvé válik.,artritisz
+637,A gerincem fáj és merevvé válik.,artritisz
+638,A gerincem fáj és merevvé válik.,artritisz
+639,A gerincem fáj és merevvé válik.,artritisz
+640,Fájnak és merevvé válnak a csontjaim.,artritisz
+641,Fájnak és merevvé válnak a csontjaim.,artritisz
+642,Fájnak és merevvé válnak a csontjaim.,artritisz
+643,Fájnak és merevvé válnak a csontjaim.,artritisz
+644,Gyulladás van a kezemben és a kezem körül.,artritisz
+645,Gyulladás van a kezemben és a kezem körül.,artritisz
+646,Gyulladás van a kezemben és a kezem körül.,artritisz
+647,Gyulladás van a kezemben és a kezem körül.,artritisz
+648,Gyulladás van a térdemben és a térdem körül.,artritisz
+649,Gyulladás van a térdemben és a térdem körül.,artritisz
+650,Gyulladás van a térdemben és a térdem körül.,artritisz
+651,Gyulladás van a térdemben és a térdem körül.,artritisz
+652,Gyulladás van a gerincemben és a gerincem körül.,artritisz
+653,Gyulladás van a gerincemben és a gerincem körül.,artritisz
+654,Gyulladás van a gerincemben és a gerincem körül.,artritisz
+655,Gyulladás van a gerincemben és a gerincem körül.,artritisz
+656,"Melegséget érzek, és a kezemen vörös és duzzadt a bőröm.",artritisz
+657,"Melegséget érzek, és a kezemen vörös és duzzadt a bőröm.",artritisz
+658,"Melegséget érzek, és a kezemen vörös és duzzadt a bőröm.",artritisz
+659,"Melegséget érzek, és a kezemen vörös és duzzadt a bőröm.",artritisz
+660,"Melegséget érzek, és vörös és duzzadt a bőr a gerincem felett.",artritisz
+661,"Melegséget érzek, és vörös és duzzadt a bőr a gerincem felett.",artritisz
+662,"Melegséget érzek, és vörös és duzzadt a bőr a gerincem felett.",artritisz
+663,"Melegséget érzek, és vörös és duzzadt a bőr a gerincem felett.",artritisz
+664,"Melegséget érzek, és a térdem fölött vörös és duzzadt a bőröm.",artritisz
+665,"Melegséget érzek, és a térdem fölött vörös és duzzadt a bőröm.",artritisz
+666,"Melegséget érzek, és a térdem fölött vörös és duzzadt a bőröm.",artritisz
+667,"Melegséget érzek, és a térdem fölött vörös és duzzadt a bőröm.",artritisz
+668,Gyengeségem és izomsorvadásom van.,artritisz
+669,Gyengeségem és izomsorvadásom van.,artritisz
+670,Gyengeségem és izomsorvadásom van.,artritisz
+671,Gyengeségem és izomsorvadásom van.,artritisz
+672,"Azt hiszem, ízületi gyulladásom van.",artritisz
+673,"Azt hiszem, ízületi gyulladásom van.",artritisz
+674,"Azt hiszem, ízületi gyulladásom van.",artritisz
+675,"Azt hiszem, ízületi gyulladásom van.",artritisz
+676,artritiszen megyek keresztül,artritisz
+677,artritiszen megyek keresztül,artritisz
+678,artritiszen megyek keresztül,artritisz
+679,artritiszen megyek keresztül,artritisz
+680,az ízületi gyulladás kellemetlen fájdalma,artritisz
+681,az ízületi gyulladás kellemetlen fájdalma,artritisz
+682,az ízületi gyulladás kellemetlen fájdalma,artritisz
+683,az ízületi gyulladás kellemetlen fájdalma,artritisz
+684,Ízületi gyulladásban szenvedek,artritisz
+685,Ízületi gyulladásban szenvedek,artritisz
+686,Ízületi gyulladásban szenvedek,artritisz
+687,Ízületi gyulladásban szenvedek,artritisz
+688,nemrégiben ízületi gyulladással küszködtem,artritisz
+689,nemrégiben ízületi gyulladással küszködtem,artritisz
+690,nemrégiben ízületi gyulladással küszködtem,artritisz
+691,nemrégiben ízületi gyulladással küszködtem,artritisz
+692,alsó hasi fájdalom az időszak alatt,menstruáció
+693,alsó hasi fájdalom az időszak alatt,menstruáció
+694,alsó hasi fájdalom az időszak alatt,menstruáció
+695,alsó hasi fájdalom az időszak alatt,menstruáció
+696,alsó hasi fájdalom az időszak alatt,menstruáció
+697,alsó hasi fájdalom az időszak alatt,menstruáció
+698,alsó hasi fájdalom a menstruáció után,menstruáció
+699,alsó hasi fájdalom a menstruáció után,menstruáció
+700,alsó hasi fájdalom a menstruáció után,menstruáció
+701,alsó hasi fájdalom a menstruáció után,menstruáció
+702,alsó hasi fájdalom a menstruáció után,menstruáció
+703,alsó hasi fájdalom a menstruáció után,menstruáció
+704,alsó hasi fájdalom a menstruáció előtt,menstruáció
+705,alsó hasi fájdalom a menstruáció előtt,menstruáció
+706,alsó hasi fájdalom a menstruáció előtt,menstruáció
+707,alsó hasi fájdalom a menstruáció előtt,menstruáció
+708,alsó hasi fájdalom a menstruáció előtt,menstruáció
+709,alsó hasi fájdalom a menstruáció előtt,menstruáció
+710,hasi fájdalom a menstruáció alatt,menstruáció
+711,hasi fájdalom a menstruáció alatt,menstruáció
+712,hasi fájdalom a menstruáció alatt,menstruáció
+713,hasi fájdalom a menstruáció alatt,menstruáció
+714,hasi fájdalom a menstruáció alatt,menstruáció
+715,hasi fájdalom a menstruáció alatt,menstruáció
+716,menstruációs görcsök,menstruáció
+717,menstruációs görcsök,menstruáció
+718,menstruációs görcsök,menstruáció
+719,menstruációs görcsök,menstruáció
+720,menstruációs görcsök,menstruáció
+721,menstruációs görcsök,menstruáció
+722,görcsök a menstruáció alatt,menstruáció
+723,görcsök a menstruáció alatt,menstruáció
+724,görcsök a menstruáció alatt,menstruáció
+725,görcsök a menstruáció alatt,menstruáció
+726,görcsök a menstruáció alatt,menstruáció
+727,görcsök a menstruáció alatt,menstruáció
+728,görcsök a menstruáció után,menstruáció
+729,görcsök a menstruáció után,menstruáció
+730,görcsök a menstruáció után,menstruáció
+731,görcsök a menstruáció után,menstruáció
+732,görcsök a menstruáció előtt,menstruáció
+733,görcsök a menstruáció előtt,menstruáció
+734,görcsök a menstruáció előtt,menstruáció
+735,görcsök a menstruáció előtt,menstruáció
+736,görcsök a menstruáció előtt,menstruáció
+737,görcsök a menstruáció előtt,menstruáció
+738,menstruációs görcsök a menstruáció alatt,menstruáció
+739,menstruációs görcsök a menstruáció alatt,menstruáció
+740,menstruációs görcsök a menstruáció alatt,menstruáció
+741,menstruációs görcsök a menstruáció alatt,menstruáció
+742,menstruációs görcsök a menstruáció alatt,menstruáció
+743,menstruációs görcsök a menstruáció alatt,menstruáció
+744,menstruációs görcsök menstruáció után,menstruáció
+745,menstruációs görcsök menstruáció után,menstruáció
+746,menstruációs görcsök menstruáció után,menstruáció
+747,menstruációs görcsök menstruáció után,menstruáció
+748,menstruációs görcsök menstruáció után,menstruáció
+749,menstruációs görcsök menstruáció után,menstruáció
+750,menstruációs görcsök menstruáció előtt,menstruáció
+751,menstruációs görcsök menstruáció előtt,menstruáció
+752,menstruációs görcsök menstruáció előtt,menstruáció
+753,menstruációs görcsök menstruáció előtt,menstruáció
+754,menstruációs görcsök menstruáció előtt,menstruáció
+755,menstruációs görcsök menstruáció előtt,menstruáció
+756,hasi görcsök,menstruáció
+757,hasi görcsök,menstruáció
+758,hasi görcsök,menstruáció
+759,hasi görcsök,menstruáció
+760,hasi görcsök,menstruáció
+761,hasi görcsök,menstruáció
+762,alhasi fájdalom a menstruáció alatt,menstruáció
+763,alhasi fájdalom a menstruáció alatt,menstruáció
+764,alhasi fájdalom a menstruáció alatt,menstruáció
+765,alhasi fájdalom a menstruáció alatt,menstruáció
+766,alhasi fájdalom a menstruáció alatt,menstruáció
+767,alhasi fájdalom a menstruáció alatt,menstruáció
+768,alhasi fájdalom a menstruáció után,menstruáció
+769,alhasi fájdalom a menstruáció után,menstruáció
+770,alhasi fájdalom a menstruáció után,menstruáció
+771,alhasi fájdalom a menstruáció után,menstruáció
+772,alhasi fájdalom a menstruáció után,menstruáció
+773,alhasi fájdalom a menstruáció után,menstruáció
+774,alhasi fájdalom a menstruáció előtt,menstruáció
+775,alhasi fájdalom a menstruáció előtt,menstruáció
+776,alhasi fájdalom a menstruáció előtt,menstruáció
+777,alhasi fájdalom a menstruáció előtt,menstruáció
+778,alhasi fájdalom a menstruáció előtt,menstruáció
+779,alhasi fájdalom a menstruáció előtt,menstruáció
+780,hasi fájdalom a menstruáció alatt,menstruáció
+781,hasi fájdalom a menstruáció alatt,menstruáció
+782,hasi fájdalom a menstruáció alatt,menstruáció
+783,hasi fájdalom a menstruáció alatt,menstruáció
+784,hasi fájdalom a menstruáció alatt,menstruáció
+785,hasi fájdalom a menstruáció alatt,menstruáció
+786,D-vitaminhiányban szenved,d-vitamin
+787,D-vitaminhiányban szenved,d-vitamin
+788,D-vitaminhiányban szenved,d-vitamin
+789,D-vitaminhiányban szenved,d-vitamin
+790,D-vitaminhiányban szenved,d-vitamin
+791,D-vitaminhiányban szenved,d-vitamin
+792,d-vitamin hiány,d-vitamin
+793,d-vitamin hiány,d-vitamin
+794,d-vitamin hiány,d-vitamin
+795,d-vitamin hiány,d-vitamin
+796,d-vitamin hiány,d-vitamin
+797,d-vitamin hiány,d-vitamin
+798,alacsony d-vitamin,d-vitamin
+799,alacsony d-vitamin,d-vitamin
+800,alacsony d-vitamin,d-vitamin
+801,alacsony d-vitamin,d-vitamin
+802,alacsony d-vitamin,d-vitamin
+803,alacsony d-vitamin,d-vitamin
+804,alacsony d-vitamin szint,d-vitamin
+805,alacsony d-vitamin szint,d-vitamin
+806,alacsony d-vitamin szint,d-vitamin
+807,alacsony d-vitamin szint,d-vitamin
+808,alacsony d-vitamin szint,d-vitamin
+809,alacsony d-vitamin szint,d-vitamin
+810,D-vitamin-hiányban szenvedek,d-vitamin
+811,D-vitamin-hiányban szenvedek,d-vitamin
+812,D-vitamin-hiányban szenvedek,d-vitamin
+813,D-vitamin-hiányban szenvedek,d-vitamin
+814,D-vitamin-hiányban szenvedek,d-vitamin
+815,D-vitamin-hiányban szenvedek,d-vitamin
+816,Angolkórban szenvedek,angolkór
+817,Angolkórban szenvedek,angolkór
+818,Angolkórban szenvedek,angolkór
+819,Angolkórban szenvedek,angolkór
+820,Angolkór,angolkór
+821,Angolkór,angolkór
+822,Angolkór,angolkór
+823,Angolkór,angolkór
+824,angolkórban szenvedek,angolkór
+825,angolkórban szenvedek,angolkór
+826,angolkórban szenvedek,angolkór
+827,angolkórban szenvedek,angolkór
+828,a csontjaim gyengék,angolkór
+829,a csontjaim gyengék,angolkór
+830,a csontjaim gyengék,angolkór
+831,a csontjaim gyengék,angolkór
+832,a csontjaim gyengék,angolkór
+833,a csontjaim gyengék,angolkór
+834,a csontok gyengék a d-vitamin hiánya miatt,angolkór
+835,a csontok gyengék a d-vitamin hiánya miatt,angolkór
+836,a csontok gyengék a d-vitamin hiánya miatt,angolkór
+837,a csontok gyengék a d-vitamin hiánya miatt,angolkór
+838,a csontok gyengék a d-vitamin hiánya miatt,angolkór
+839,a csontok gyengék a d-vitamin hiánya miatt,angolkór
+840,a csontok gyengék a d-vitamin hiány miatt,angolkór
+841,a csontok gyengék a d-vitamin hiány miatt,angolkór
+842,a csontok gyengék a d-vitamin hiány miatt,angolkór
+843,a csontok gyengék a d-vitamin hiány miatt,angolkór
+844,a csontok gyengék a d-vitamin hiány miatt,angolkór
+845,a csontok gyengék a d-vitamin hiány miatt,angolkór
+846,a csontok gyengék az angolkór miatt,angolkór
+847,a csontok gyengék az angolkór miatt,angolkór
+848,a csontok gyengék az angolkór miatt,angolkór
+849,a csontok gyengék az angolkór miatt,angolkór
+850,haeamoglobin szint alacsony,vérszegénység
+851,haeamoglobin szint alacsony,vérszegénység
+852,alacsony haeamoglobin szint,vérszegénység
+853,alacsony haeamoglobin szint,vérszegénység
+854,alacsony haeamoglobin,vérszegénység
+855,alacsony haeamoglobin,vérszegénység
+856,vérszegénységben szenved,vérszegénység
+857,vérszegénységben szenved,vérszegénység
+858,vérszegénységben szenved,vérszegénység
+859,vérszegénységben szenved,vérszegénység
+860,vérszegénységben szenvedek,vérszegénység
+861,vérszegénységben szenvedek,vérszegénység
+862,vérszegénységben szenvedek,vérszegénység
+863,vérszegénységben szenvedek,vérszegénység
+864,vérszegénység,vérszegénység
+865,vérszegénység,vérszegénység
+866,vérszegénység,vérszegénység
+867,vérszegénység,vérszegénység
+868,túl alacsony a hemoglobinszintem,vérszegénység
+869,túl alacsony a hemoglobinszintem,vérszegénység
+870,vérszegénységben szenvedek,vérszegénység
+871,vérszegénységben szenvedek,vérszegénység
+872,vérszegénységben szenvedek,vérszegénység
+873,vérszegénységben szenvedek,vérszegénység
+874,alacsonyabb hemoglobinszint,vérszegénység
+875,alacsonyabb hemoglobinszint,vérszegénység
+876,alacsony hemoglobinszint,vérszegénység
+877,alacsony hemoglobinszint,vérszegénység
+878,gyengének érzem magam,gyengeség
+879,gyengének érzem magam,gyengeség
+880,gyengének érzem magam,gyengeség
+881,gyengének érzem magam,gyengeség
+882,gyengének érzem magam,gyengeség
+883,gyengének érzem magam,gyengeség
+884,gyengeség,gyengeség
+885,gyengeség,gyengeség
+886,gyengeség,gyengeség
+887,gyengeség,gyengeség
+888,gyengeség,gyengeség
+889,gyengeség,gyengeség
+890,szédülés,gyengeség
+891,szédülés,gyengeség
+892,szédülés,gyengeség
+893,szédülés,gyengeség
+894,szédülés,gyengeség
+895,szédülés,gyengeség
+896,"Szédülök, gyengeségem van",gyengeség
+897,"Szédülök, gyengeségem van",gyengeség
+898,"Szédülök, gyengeségem van",gyengeség
+899,"Szédülök, gyengeségem van",gyengeség
+900,"Szédülök, gyengeségem van",gyengeség
+901,"Szédülök, gyengeségem van",gyengeség
+902,gyengeségem van,gyengeség
+903,gyengeségem van,gyengeség
+904,gyengeségem van,gyengeség
+905,gyengeségem van,gyengeség
+906,gyengeségem van,gyengeség
+907,gyengeségem van,gyengeség
+908,szédülést érzek,gyengeség
+909,szédülést érzek,gyengeség
+910,szédülést érzek,gyengeség
+911,szédülést érzek,gyengeség
+912,szédülést érzek,gyengeség
+913,szédülést érzek,gyengeség
+914,szédülök,gyengeség
+915,szédülök,gyengeség
+916,szédülök,gyengeség
+917,szédülök,gyengeség
+918,szédülök,gyengeség
+919,szédülök,gyengeség
+920,kimerültnek érzem magam,gyengeség
+921,kimerültnek érzem magam,gyengeség
+922,kimerültnek érzem magam,gyengeség
+923,kimerültnek érzem magam,gyengeség
+924,kimerültnek érzem magam,gyengeség
+925,kimerültnek érzem magam,gyengeség
+926,gyengeséget érzek,gyengeség
+927,gyengeséget érzek,gyengeség
+928,gyengeséget érzek,gyengeség
+929,gyengeséget érzek,gyengeség
+930,gyengeséget érzek,gyengeség
+931,gyengeséget érzek,gyengeség
+932,könnyezik a szemem,könnyezés
+933,könnyezik a szemem,könnyezés
+934,könnyezik a szemem,könnyezés
+935,könnyezik a szemem,könnyezés
+936,könnyezik a szemem,könnyezés
+937,könnyezik a szemem,könnyezés
+938,jobb szemem könnyezik,könnyezés
+939,jobb szemem könnyezik,könnyezés
+940,jobb szemem könnyezik,könnyezés
+941,jobb szemem könnyezik,könnyezés
+942,jobb szemem könnyezik,könnyezés
+943,jobb szemem könnyezik,könnyezés
+944,bal szemem könnyezik,könnyezés
+945,bal szemem könnyezik,könnyezés
+946,bal szemem könnyezik,könnyezés
+947,bal szemem könnyezik,könnyezés
+948,bal szemem könnyezik,könnyezés
+949,bal szemem könnyezik,könnyezés
+950,mindkét szemem könnyezik,könnyezés
+951,mindkét szemem könnyezik,könnyezés
+952,mindkét szemem könnyezik,könnyezés
+953,mindkét szemem könnyezik,könnyezés
+954,mindkét szemem könnyezik,könnyezés
+955,mindkét szemem könnyezik,könnyezés
+956,a szemek kiszáradnak,kiszáradás
+957,a szemek kiszáradnak,kiszáradás
+958,a szemek kiszáradnak,kiszáradás
+959,a szemek kiszáradnak,kiszáradás
+960,szem kiszárad,kiszáradás
+961,szem kiszárad,kiszáradás
+962,szem kiszárad,kiszáradás
+963,szem kiszárad,kiszáradás
+964,kiszárad a szemem,kiszáradás
+965,kiszárad a szemem,kiszáradás
+966,kiszárad a szemem,kiszáradás
+967,kiszárad a szemem,kiszáradás
+968,a jobb szem kiszárad,kiszáradás
+969,a jobb szem kiszárad,kiszáradás
+970,a jobb szem kiszárad,kiszáradás
+971,a jobb szem kiszárad,kiszáradás
+972,bal szem kiszárad,kiszáradás
+973,bal szem kiszárad,kiszáradás
+974,bal szem kiszárad,kiszáradás
+975,bal szem kiszárad,kiszáradás
+976,mindkét szemem szárad,kiszáradás
+977,mindkét szemem szárad,kiszáradás
+978,mindkét szemem szárad,kiszáradás
+979,mindkét szemem szárad,kiszáradás
+980,Szemproblémám van a hosszú képernyőidő miatt.,kiszáradás
+981,Szemproblémám van a hosszú képernyőidő miatt.,kiszáradás
+982,Szemproblémám van a hosszú képernyőidő miatt.,kiszáradás
+983,Szemproblémám van a hosszú képernyőidő miatt.,kiszáradás
+984,fájnak a füleim,fül fájás
+985,fájnak a füleim,fül fájás
+986,fájnak a füleim,fül fájás
+987,fájnak a füleim,fül fájás
+988,fájnak a füleim,fül fájás
+989,fájnak a füleim,fül fájás
+990,fáj a jobb fülem,fül fájás
+991,fáj a jobb fülem,fül fájás
+992,fáj a jobb fülem,fül fájás
+993,fáj a jobb fülem,fül fájás
+994,fáj a jobb fülem,fül fájás
+995,fáj a jobb fülem,fül fájás
+996,Fáj a bal fülem,fül fájás
+997,Fáj a bal fülem,fül fájás
+998,Fáj a bal fülem,fül fájás
+999,Fáj a bal fülem,fül fájás
+1000,Fáj a bal fülem,fül fájás
+1001,Fáj a bal fülem,fül fájás
+1002,a fülem nagyon fáj,fül fájás
+1003,a fülem nagyon fáj,fül fájás
+1004,a fülem nagyon fáj,fül fájás
+1005,a fülem nagyon fáj,fül fájás
+1006,a fülem nagyon fáj,fül fájás
+1007,a fülem nagyon fáj,fül fájás
+1008,fülfájás a hosszú ideig tartó fülhallgató használat miatt,fül fájás
+1009,fülfájás a hosszú ideig tartó fülhallgató használat miatt,fül fájás
+1010,fülfájás a hosszú ideig tartó fülhallgató használat miatt,fül fájás
+1011,fülfájás a hosszú ideig tartó fülhallgató használat miatt,fül fájás
+1012,fülfájás a hosszú ideig tartó fülhallgató használat miatt,fül fájás
+1013,fülfájás a hosszú ideig tartó fülhallgató használat miatt,fül fájás
+1014,fáj a fülem a fülhallgató használata miatt,fül fájás
+1015,fáj a fülem a fülhallgató használata miatt,fül fájás
+1016,fáj a fülem a fülhallgató használata miatt,fül fájás
+1017,fáj a fülem a fülhallgató használata miatt,fül fájás
+1018,fáj a fülem a fülhallgató használata miatt,fül fájás
+1019,fáj a fülem a fülhallgató használata miatt,fül fájás
+1020,fülzúgástól szenvedek,fülcsengés
+1021,fülzúgástól szenvedek,fülcsengés
+1022,fülzúgástól szenvedek,fülcsengés
+1023,fülzúgástól szenvedek,fülcsengés
+1024,a fülem folyamatosan cseng,fülcsengés
+1025,a fülem folyamatosan cseng,fülcsengés
+1026,a fülem folyamatosan cseng,fülcsengés
+1027,a fülem folyamatosan cseng,fülcsengés
+1028,a jobb fülem cseng,fülcsengés
+1029,a jobb fülem cseng,fülcsengés
+1030,a jobb fülem cseng,fülcsengés
+1031,a jobb fülem cseng,fülcsengés
+1032,bal fül cseng,fülcsengés
+1033,bal fül cseng,fülcsengés
+1034,bal fül cseng,fülcsengés
+1035,bal fül cseng,fülcsengés
+1036,fülcsengés a fülhallgató hosszú használata miatt,fülcsengés
+1037,fülcsengés a fülhallgató hosszú használata miatt,fülcsengés
+1038,fülcsengés a fülhallgató hosszú használata miatt,fülcsengés
+1039,fülcsengés a fülhallgató hosszú használata miatt,fülcsengés
+1040,fülfájdalom a hosszú ideig tartó fejhallgató használat miatt,fülcsengés
+1041,fülfájdalom a hosszú ideig tartó fejhallgató használat miatt,fülcsengés
+1042,fülfájdalom a hosszú ideig tartó fejhallgató használat miatt,fülcsengés
+1043,fülfájdalom a hosszú ideig tartó fejhallgató használat miatt,fülcsengés
+1044,fülfájdalom a hosszú ideig tartó fejhallgató használat miatt,fülcsengés
+1045,fülfájdalom a hosszú ideig tartó fejhallgató használat miatt,fülcsengés
+1046,fáj a fülem a fejhallgató használata miatt,fülcsengés
+1047,fáj a fülem a fejhallgató használata miatt,fülcsengés
+1048,fáj a fülem a fejhallgató használata miatt,fülcsengés
+1049,fáj a fülem a fejhallgató használata miatt,fülcsengés
+1050,fáj a fülem a fejhallgató használata miatt,fülcsengés
+1051,fáj a fülem a fejhallgató használata miatt,fülcsengés
+1052,fülcsengés a fejhallgató hosszú ideig tartó használata miatt,fülcsengés
+1053,fülcsengés a fejhallgató hosszú ideig tartó használata miatt,fülcsengés
+1054,fülcsengés a fejhallgató hosszú ideig tartó használata miatt,fülcsengés
+1055,fülcsengés a fejhallgató hosszú ideig tartó használata miatt,fülcsengés
+1056,fülfájás a fülhallgató hosszú ideig tartó használata miatt,fülcsengés
+1057,fülfájás a fülhallgató hosszú ideig tartó használata miatt,fülcsengés
+1058,fülfájás a fülhallgató hosszú ideig tartó használata miatt,fülcsengés
+1059,fülfájás a fülhallgató hosszú ideig tartó használata miatt,fülcsengés
+1060,fülfájás a fülhallgató hosszú ideig tartó használata miatt,fülcsengés
+1061,fülfájás a fülhallgató hosszú ideig tartó használata miatt,fülcsengés
+1062,A fülhallgató használata miatt fáj a fülem.,fülcsengés
+1063,a fülhallgató használata miatt fáj a fülem.,fülcsengés
+1064,Fülhallgató használata miatt fáj a fülem t,fülcsengés
+1065,A fülhallgató használata miatt fáj a fülem,fülcsengés
+1066,fülhallgató használata miatt fáj a fülem,fülcsengés
+1067,a fülhallgató használata miatt fáj a fülem,fülcsengés
+1068,fülcsengés a fülhallgató hosszú ideig tartó használata miatt,fülcsengés
+1069,fülcsengés a fülhallgató hosszú ideig tartó használata miatt.,fülcsengés
+1070,Fülcsengés a fülhallgató hosszú ideig tartó használata miatt,fülcsengés
+1071,Fülcsengés, a fülhallgató hosszú ideig tartó használata miatt,fülcsengés
+1072,szívproblémáim vannak,szívroham
+1073,szívproblémáim vannak.,szívroham
+1074,nyomás a mellkasban,szívroham
+1075,Nyomás a mellkasban,szívroham
+1076,nyomás a mellkasban.,szívroham
+1077,szorító érzés a mellkasban,szívroham
+1078,Szorító érzés a mellkasban,szívroham
+1079,szorító érzés a mellkasban.,szívroham
+1080,fájdalom a mellkasban ,szívroham
+1081,szívroham mellkasban,szívroham
+1082,Azt hiszem, fáj a bal karom mellkasban,szívroham
+1083,azt hiszem, fáj a bal karom mellkasban,szívroham
+1084,Azt hiszem, fáj a bal karom mellkasban.,szívroham
+1085,szívrohamot érzek,szívroham
+1086,szorítás a mellkasban,szívroham
+1087,Szorítás a mellkasban,szívroham
+1088,szorítás a mellkasban.,szívroham
+1089,fájdalmas érzés a mellkasomban,szívroham
+1090,Fájdalmas érzés a mellkasomban,szívroham
+1091,fájdalmas érzés a mellkasomban.,szívroham
+1092,nyomás a bal karomban,szívroham
+1093,Nyomás a bal karomban,szívroham
+1094,nyomás a bal karomban.,szívroham
+1095,feszülés a bal karban,szívroham
+1096,Feszülés a bal karomban,szívroham
+1097,feszülés a bal karomban.,szívroham
+1098,szorítás a karomban,szívroham
+1099,Szorítás a karomban,szívroham
+1100,szorítás a karomban.,szívroham
+1101,fájdalmas érzés a karomban,szívroham
+1102,Fájdalmas érzés a karomban,szívroham
+1103,fájdalmas érzés a karomban.,szívroham
+1104,mellkasnyomás,szívroham
+1105,Mellkasi nyomás.,szívroham
+1106,Mellkasi nyomás,szívroham
+1107,mellkasi nyomás,szívroham
+1108,mellkasi nyomás.,szívroham
+1109,mellkasi szorítás,szívroham
+1110,Mellkasi szorítás,szívroham
+1111,mellkasi szorítás,szívroham
+1112,Mellkasi fájdalom,szívroham
+1113,mellkasi fájdalom,szívroham
+1114,mellkasi fájdalom.,szívroham
+1115,mellkasi fájdalom.,szívroham
+1116,mellkasfájdalom,szívroham
+1117,bal kar nyomása,szívroham
+1118,bal karom nyomása,szívroham
+1119,Bal karom nyomása,szívroham
+1120,Bal kar nyomása,szívroham
+1121,bal karom nyomása.,szívroham
+1122,bal karom nyomása.,szívroham
